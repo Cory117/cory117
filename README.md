@@ -1,6 +1,6 @@
 ## Hi there, I'm Cory 👋
 💻 I specialize in frontend web development<br>
-💼 I'm available for freelance jobs<br>
+💼 I'm open to new opportunities<br>
 📫 You can reach me via <a href="mailto:corydaddona1@hotmail.com">email</a><br>
 
 ## Languages and Tools 🔧
