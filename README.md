@@ -8,7 +8,17 @@
 
 ## GitHub Stats 📊
 <div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=cory117&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+ <img 
+  width="358" 
+  align="top" 
+  class="img" 
+  src="https://github-readme-stats.vercel.app/api?username=cory117&theme=dark&hide_border=false&include_all_commits=false&count_private=false" 
+ />
  &nbsp;
- <img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=cory117&theme=dark&hide_border=false" />
+ <img 
+  width="390" 
+  align="top" 
+  class="img" 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=cory117&theme=dark&hide_border=false" 
+ />
 </div>
